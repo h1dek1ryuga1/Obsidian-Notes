@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Binary Tree.md",
+                "file": "Cyber Security/This is about how to secure your credentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Tree"
+              "title": "This is about how to secure your credentials"
             }
           }
         ]
@@ -184,6 +184,9 @@
   "active": "0c7febf1a4090b87",
   "lastOpenFiles": [
     "DSA/Binary Tree.md",
+    "Cyber Security/This is about how to secure your credentials.md",
+    "Untitled.md",
+    "Cyber Security",
     "DSA",
     "Study Notes Obsidian/lnlkjnkn.md",
     "kkkk.md",
@@ -200,7 +203,6 @@
     "Study Notes Obsidian/my boi",
     "Study Notes Obsidian/Test",
     "Study Notes Obsidian/Study Notes/Test 2",
-    "Study Notes Obsidian/Study Notes/Test 1",
-    "Study Notes Obsidian/Study Notes"
+    "Study Notes Obsidian/Study Notes/Test 1"
   ]
 }
