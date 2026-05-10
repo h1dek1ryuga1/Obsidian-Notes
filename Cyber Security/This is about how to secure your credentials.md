@@ -1,1 +1,4 @@
 First things we do is how to create a actual local or private cloud based password manager running on our own personal server or vps
+
+
+made some more new changes
